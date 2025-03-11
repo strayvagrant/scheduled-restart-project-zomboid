@@ -1,0 +1,13 @@
+{
+    "IP_ADDRESS"      : "serverip:27015",
+    "IPSERVER"        : "serverip",
+    "PORT"            : "16261",
+    "PASSWORD_RCON"   : "your_password",
+    "admin"           : 1265496075033247794, 
+    "notifyChannel"   : 1299387359573573652,
+    "warga"           : 1313900639792922624,
+    "panel_url"       : "https://panel.example.com/",
+    "apikey"          : "ptlc_",
+    "botToken"        : " ",
+    "server_id"       : "e64f20eb"
+}
